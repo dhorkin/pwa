@@ -12,7 +12,7 @@
       "reddit": "u/arcanistzed"
     }
   ],
-  "url": "This is auto replaced",
+  "url": "https://github.com/dhorkin/pwa",
   "license": "https://github.com/arcanistzed/pwa/blob/main/LICENSE",
   "readme": "https://github.com/arcanistzed/pwa/blob/main/README.md",
   "bugs": "https://github.com/arcanistzed/pwa/issues/new/choose",
@@ -20,14 +20,14 @@
   "flags": {
     "allowBugReporter": true
   },
-  "version": "This is auto replaced",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "9",
   "esmodules": [
     "scripts/module.js"
   ],
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
+  "manifest": "https://raw.githubusercontent.com/dhorkin/pwa/main/module.json",
+  "download": "https://raw.githubusercontent.com/dhorkin/pwa/main/module.zip",
   "manifestPlusVersion": "1.2.0",
   "media": [
     {
